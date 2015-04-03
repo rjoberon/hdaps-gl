@@ -11,6 +11,8 @@
  * Cube replaced by simple laptop by Petschge <petschge@web.de>.
  *
  * And then updated by Robert Love <rml@novell.com>.
+ *
+ * Keyboard and fullscreen supported added by Robert Jäschke <jaeschke@l3s.de> 2015.
  */
 
 #include <unistd.h>
